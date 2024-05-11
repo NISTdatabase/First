@@ -1,3 +1,7 @@
+#This will pull all the ips from an ifconfig
+
+#!/bin/python3
+
 import re
 import subprocess
 
